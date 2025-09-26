@@ -14,4 +14,4 @@
 
 this is interface design for augmented reality application of a cosmetic brand.
 
-![image_alt](https://github.com/HoneyRajgor/AR-application-design/blob/main/Untitledtask4.png?raw=true)
+![image_alt](https://github.com/HoneyRajgor/AR-application-design/blob/main/IMG-20250923-WA0004.jpg?raw=true)
